@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRatingTest.TestClass\\MovieRatingTest.TestClass.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRatingTest.TestClass\\MovieRatingTest.TestClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRatingTest.TestClass\\MovieRatingTest.TestClass.csproj",
+        "projectName": "MovieRatingTest.TestClass",
+        "projectPath": "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRatingTest.TestClass\\MovieRatingTest.TestClass.csproj",
+        "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRatingTest.TestClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRating\\MovieRating.csproj": {
+                "projectPath": "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRating\\MovieRating.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRating\\MovieRating.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRating\\MovieRating.csproj",
+        "projectName": "MovieRating",
+        "projectPath": "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRating\\MovieRating.csproj",
+        "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Test\\Desktop\\sdm compulsory 1\\MovieRating\\MovieRating\\MovieRating\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

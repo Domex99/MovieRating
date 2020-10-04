@@ -4,10 +4,11 @@ using System.Text;
 
 namespace MovieRating.Core.Entity
 {
-{
-{
-    public class Reviewer
+   public class Movie
     {
-        public int Id { get; set; }
+        public int MovieID { get; set; }
+        
+
+
     }
 }

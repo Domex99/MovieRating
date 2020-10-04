@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\bin\Debug\netstandard2.0\MovieRatingTest.TestClass.deps.json
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\bin\Debug\netstandard2.0\MovieRatingTest.TestClass.dll
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\obj\Debug\netstandard2.0\MovieRatingTest.TestClass.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\obj\Debug\netstandard2.0\MovieRatingTest.TestClass.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\obj\Debug\netstandard2.0\MovieRatingTest.TestClass.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRatingTest.TestClass\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

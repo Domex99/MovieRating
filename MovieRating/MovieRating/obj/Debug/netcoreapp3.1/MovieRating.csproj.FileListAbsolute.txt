@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\MovieRating\MovieRating\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csproj.CoreCompileInputs.cache
